@@ -6,4 +6,4 @@ $whoami: Cybersecurity Student | Bug Bounty Hunter | CTF Player
 
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naggar023&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naggar023&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naggar023&theme=transparent)
