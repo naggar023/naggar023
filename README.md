@@ -1,5 +1,5 @@
 ### Hi there 👋
-$whoami: Cybersecurity student trying to be Red Team Operator | Active CTF Player  
+💲whoami: Cybersecurity student trying to be Red Team Operator | Active CTF Player  
 - 🧠 Experienced in Web & Network Penetration Testing
 - 📚 Currently learning Active Directory Pentesting & Windows Exploitation 
 - 🎯 Targeting CRTP
